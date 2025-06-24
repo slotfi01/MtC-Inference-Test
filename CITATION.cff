@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper."
+title: "Inference Test for Politically Hedged Portfolios"
+authors:
+  - family-names: Lotfinoghabi
+    given-names: Somayyeh
+    affiliation: University of Central Lancashire Cyprus
+  - family-names: Pagliardi
+    given-names: Giovanni
+    affiliation: BI Norwegian Business School
+  - family-names: Paparoditis
+    given-names: Efstathios
+    affiliation: University of Cyprus
+  - family-names: Zenios
+    given-names: Stavros A.
+    affiliation: University of Cyprus; Durham University
+date-released: 2025-06-24
+version: "1.0.0"
+doi: 10.1016/j.ejor.2024.10.017
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Lotfinoghabi
+      given-names: Somayyeh
+    - family-names: Pagliardi
+      given-names: Giovanni
+    - family-names: Paparoditis
+      given-names: Efstathios
+    - family-names: Zenios
+      given-names: Stavros A.
+  title: "Hedging political risk in international portfolios"
+  journal: "European Journal of Operational Research"
+  volume: "322"
+  issue: "2"
+  pages: "629-646"
+  year: 2025
+  doi: 10.1016/j.ejor.2024.10.017
