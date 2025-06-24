@@ -42,8 +42,8 @@ This paper addresses how **political risk**—a global, non-diversifiable factor
 
 ## 📂 What's in This Repository
 
-- `inference_test.R` – R script to compute the MtC ratio and perform the inference test  
-- `inference_test.m` – MATLAB script with equivalent implementation  
+- `mtc_cvr_inf_test.R` – R script to compute the MtC ratio and perform the inference test  
+- `mtc_cvr_inf_test.m` – MATLAB script with equivalent implementation  
 - `README.md` – Documentation of the project  
 - `LICENSE` – License terms (MIT recommended)  
 - `CITATION.cff` – Citation metadata for GitHub
