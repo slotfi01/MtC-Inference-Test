@@ -4,7 +4,7 @@ inference test for mean-to-CVaR ratios
 
 
 
-## Inference Test for Politically Hedged Portfolios
+## Inference tests for Mean-to-CVaR (or Omega) financial perfpormance ratios
 
 This repository contains the code (in R and MATLAB) that implements the asymptotic inference test developed in the paper:
 
