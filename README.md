@@ -37,10 +37,10 @@ abstract = {We show that internationally diversified portfolios carry sizeable p
 
 This paper addresses how political risk—a global, non-diversifiable factor—affects international portfolio performance. The authors:
 
-- Develop a portfolio selection model that incorporates political risk hedging using a second-order stochastic dominance (SSD) consistent criterion, the **Mean-to-CVaR (MtC) ratio.
+- Develop a portfolio selection model that incorporates political risk hedging using a second-order stochastic dominance (SSD) consistent criterion, the Mean-to-CVaR (MtC) ratio.
 - Introduce a novel asymptotic inference test for comparing MtC performance across portfolios, filling a methodological gap in the literature.
 - Empirically show that politically hedged portfolios outperform both market indices and equally weighted portfolios across the U.S., Eurozone, and Japan.
-- Demonstrate that political risk remains material even after currency hedging and during events like **COVID-19 and the war in Ukraine.
+- Demonstrate that political risk remains material even after currency hedging and during events like COVID-19 and the war in Ukraine.
 
 
 
@@ -52,7 +52,7 @@ This paper addresses how political risk—a global, non-diversifiable factor—a
 - `mtc_cvr_inf_test.R` – R script to compute the MtC ratio and perform the inference test  
 - `mtc_cvr_inf_test.m` – MATLAB script with equivalent implementation  
 - `README.md` – Documentation of the project  
-- `LICENSE` – License terms (MIT recommended)  
+- `LICENSE` – License terms (MIT)  
 - `CITATION.cff` – Citation metadata for GitHub
 
 
