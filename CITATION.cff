@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite our paper."
-title: "Inference Test for Politically Hedged Portfolios"
+title: "Inference tests for Mean-to-CVaR (or Omega) financial performance ratios"
 authors:
   - family-names: Lotfi
     given-names: Somayyeh
@@ -14,9 +14,12 @@ authors:
   - family-names: Zenios
     given-names: Stavros A.
     affiliation: University of Cyprus; Durham University
-date-released: 2025-06-24
+date-released: 2025-06-20
 version: "1.0.0"
+url: https://github.com/slotfi01/MtC-Inference-Test
 doi: 10.1016/j.ejor.2024.10.017
+
+
 preferred-citation:
   type: article
   authors:
