@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite our paper."
 title: "Inference Test for Politically Hedged Portfolios"
 authors:
-  - family-names: Lotfinoghabi
+  - family-names: Lotfi
     given-names: Somayyeh
     affiliation: University of Central Lancashire Cyprus
   - family-names: Pagliardi
@@ -20,7 +20,7 @@ doi: 10.1016/j.ejor.2024.10.017
 preferred-citation:
   type: article
   authors:
-    - family-names: Lotfinoghabi
+    - family-names: Lotfi
       given-names: Somayyeh
     - family-names: Pagliardi
       given-names: Giovanni
